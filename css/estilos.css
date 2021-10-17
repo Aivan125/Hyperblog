@@ -5,11 +5,16 @@ body {
 }
 
 .container {
-    border: 1px dashed black;
-    margin: 0 auto;
-    padding: 50px;
-    width: 70%;
-    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px dashed black;   
+    inline-size: 800px;   
+    position: absolute;
+    top: 30%;
+    left: 30%;
+
 }
 
 .parrafo {
@@ -22,11 +27,29 @@ body {
 
 }
 
-p {
-   color: black; 
-   margin-top: 50px;   
-}
 
 .att {
     margin: 0;
+}
+
+.cabecera {
+    display: flex;    
+    flex-direction: row;    
+    position: relative;
+    /* justify-content: center; */
+    align-items: center;    
+    inline-size: 100% ;
+    background-color: blue;
+    color: white;
+
+    
+    /* left: 0; */
+    /* padding-inline-start: 50px; */
+    
+   
+}
+
+.subtitulo {    
+    position: relative;
+    left: 50px;
 }
