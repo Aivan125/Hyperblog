@@ -40,7 +40,8 @@ body {
     align-items: center;    
     inline-size: 100% ;
     background-color: blue;
-    color: white;
+    color: red;
+    font-size: 15px;
 
     
     /* left: 0; */
