@@ -46,18 +46,17 @@ p {
     /* justify-content: center; */
     align-items: center;    
     inline-size: 100% ;
-    background-color: blue;
+    background-color: pink;
     color: red;
-    font-size: 15px;
-
-    
-    /* left: 0; */
-    /* padding-inline-start: 50px; */
-    
+    font-size: 15px;   
+     
    
 }
 
 .subtitulo {    
     position: relative;
     left: 50px;
+    color: blue;
+
+
 }
