@@ -23,8 +23,15 @@ body {
     font-style: italic;
     font-size: 25px;   
     width: 100%;
+    
     /* border: 1px solid red; */
 
+}
+
+p {
+    
+    color: blue;
+    /* border: 1px solid red; */
 }
 
 
