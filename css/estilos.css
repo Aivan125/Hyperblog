@@ -58,3 +58,9 @@ p {
     left: 50px;
     color: blue;
 }
+
+.footer {
+    background-color: gray;
+    color: white;
+    inline-size: 100%;
+    margin-block-start: 50px;
