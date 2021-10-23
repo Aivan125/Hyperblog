@@ -54,7 +54,7 @@ p {
 }
 
 .subtitulo {    
-    position: relative;
-    left: 50px;
+       
     color: blue;
+    max-inline-size: 100%;
 }
